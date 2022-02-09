@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift and SwiftUI
 - 💞️ I’m looking to collaborate on more Swift projects
 - 📫 How to reach me:
-    - 📸 Instagram [mwilsonCodes_](https://geni.us/mwilson_codes)
+    - 📸 Instagram [mwilson_Codes](https://geni.us/mwilson_codes)
     - 📧 Email mwilsoncodes@cctplus.dev
 
 <!---
